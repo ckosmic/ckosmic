@@ -13,3 +13,5 @@ Hi, I'm Christian Kosman.  My main hobby is working on fun programming projects 
     <li><a href="https://twitter.com/beatsabermods">Beat Saber Modding Group</a></li>
   </ul>
 </details>
+
+![Metrics](/github-metrics.svg)
