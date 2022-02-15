@@ -22,3 +22,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_limit: 6
+          plugin_languages_skipped: ckosmic/sm64ex-ios
