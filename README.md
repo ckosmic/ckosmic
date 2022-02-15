@@ -14,4 +14,4 @@ Hi, I'm Christian Kosman.  My main hobby is working on fun programming projects 
   </ul>
 </details>
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.languages.svg)
